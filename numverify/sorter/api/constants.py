@@ -1,0 +1,5 @@
+API_KEY = "e10f3e2931f34bc6e4c119d0acc964e3"
+BASE_URL = f"http://apilayer.net/api/validate?access_key={API_KEY}"
+#BASE_URL="https://webhook.site/911e9a79-ba98-4e52-9261-6ca8a432270b"
+NO_PHONE="No numbers is base"
+NOT_COUNTRY="country_not_defined"
